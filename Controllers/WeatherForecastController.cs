@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace libraryrestapi.Controllers
+namespace movierestapi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
